@@ -1,9 +1,6 @@
--- Trabalho Programação Funcional
--- UFLA 2025
--- Professor: Bruno de Oliveira Schneider
 -- Grupo:
--- João Gabriel Salomão Baldim, Mátricula: 202410381
--- José Victor Miranda de Oliveira, Mátricula: 202410366
+-- João Gabriel Salomão Baldim
+-- José Victor Miranda de Oliveira
 -- Questões grupo 0 (3,6,9,12,15,18,21,24,27,30,33,36,39)
 
 -- Funções Auxliares
